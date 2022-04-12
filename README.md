@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Ms-Wang01
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Ms-Wang01，a student form BUPT, major in IoT Engineering.
+- 👀 I’m interested in NLP, ML, HCI, DM.
+- 🌱 I’m currently learning Django.
+- 💞️ I’m looking to collaborate on summer project.
+- 📫 You can contact me with wbj0924@outlook.com.
 
 <!---
 Ms-Wang01/Ms-Wang01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
