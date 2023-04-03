@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ms-Wang01，a student form BUPT, major in IoT Engineering.
+- 👋 Hi, I’m @Ms-Wang01.
 - 👀 I’m interested in CV, ML, HCI, DM.
 - 🌱 I’m currently learning Django.
 - 💞️ I’m looking to collaborate on summer project.
