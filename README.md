@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ms-Wang01.
-- 👀 I’m interested in CV, ML, HCI, DM.
-- 🌱 I’m currently learning Django.
-- 💞️ I’m looking to collaborate on summer project.
+- 👀 I’m interested in CV, ML, HCI.
+- 💞️ I’m looking for intership in SDE.
 - 📫 You can contact me with wbj0924@outlook.com.
 
 <!---
