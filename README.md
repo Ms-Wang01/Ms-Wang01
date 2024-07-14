@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Ms-Wang01.
-- 👀 I’m interested in CV, ML, HCI.
+- 👋 Hi, I’m Kathy, M.Sc. Comp. Eng. 25' @ NUS, B.Eng. in IoT Eng. 23' @ BUPT
+- 👀 I’m interested in developing computer engineering solutions.
 - 💞️ I’m looking for intership in SDE.
 - 📫 You can contact me with wbj0924@outlook.com.
 
